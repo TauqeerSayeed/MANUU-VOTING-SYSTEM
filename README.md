@@ -1,2 +1,2 @@
 # MANUU-VOTING-SYSTEM
-It's Voting sytem using C language
+It's a Voting sytem using C language
